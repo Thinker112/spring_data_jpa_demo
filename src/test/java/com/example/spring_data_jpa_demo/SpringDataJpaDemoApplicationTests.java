@@ -26,4 +26,9 @@ class SpringDataJpaDemoApplicationTests {
         });
     }
 
+    @Test
+    void jacksonTest(){
+
+    }
+
 }
